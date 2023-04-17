@@ -5,4 +5,6 @@ export const Container = styled.div`
   display: flex;
   padding: 50px 32px;
   justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
 `;
