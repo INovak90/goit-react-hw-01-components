@@ -1,7 +1,7 @@
 import { ProfileCard } from './ProfileCard/profileCard';
 import { BoxProfile } from './profile.style';
 
-import user from '../../user.json';
+import user from '../../data/user.json';
 
 export const Profile = () => (
   <BoxProfile>

@@ -1,6 +1,6 @@
 import { TransactionCard } from './transactionCard';
 import { TableTitle, Table } from './transaction.style';
-import transactions from '../../transactions.json';
+import transactions from '../../data/transactions.json';
 
 export const TransactionHistory = () => {
   return (

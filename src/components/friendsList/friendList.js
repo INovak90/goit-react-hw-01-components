@@ -1,4 +1,4 @@
-import friends from '../../friends.json';
+import friends from '../../data/friends.json';
 import { FriendCard } from '../friendsCard/friendsCard';
 import { List } from './friendsList.styled';
 

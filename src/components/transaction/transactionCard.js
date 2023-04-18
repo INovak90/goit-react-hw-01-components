@@ -11,7 +11,7 @@ export const TransactionCard = ({ transactions }) => {
   ));
 };
 
-TransactionCard.protoTypes = {
+TransactionCard.propTypes = {
   transactions: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.string.isRequired,

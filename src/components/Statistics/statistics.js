@@ -7,7 +7,7 @@ import {
   StatisticksTitle,
 } from './statistics.style';
 
-import data from '../../data.json';
+import data from '../../data/data.json';
 export const Statistics = () => {
   return (
     <SectionStatisticks>
